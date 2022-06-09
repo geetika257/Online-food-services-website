@@ -92,7 +92,7 @@
     position: absolute;
     top: 0px;
     left: 0px;
-    background: url('../bg1.jpg') no-repeat center center/cover;
+    background: url('bg1.jpg') no-repeat center center/cover;
     height: 740px;
     width: 100%;
     z-index: -1;
@@ -156,7 +156,7 @@
 #client-section::before{
     content: "";
     position: absolute;
-    background: url('../bg.jpg');
+    background: url('bg.jpg');
     height: 40%;
     width: 100%;
     z-index: -1;
@@ -179,7 +179,7 @@
 #contact::before{
     content: "";
     position: absolute;
-    background: url('../contact.jpg') no-repeat center center/cover;
+    background: url('contact.jpg') no-repeat center center/cover;
     height: 75%;
     width: 100%;
     z-index: -1;
